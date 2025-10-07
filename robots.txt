@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://xiaoting-li-rs.github.io/sitemap.xml
+Sitemap: https://xiaoting-li-rs.github.io//sitemap.xml
